@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Admin panel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I made this project in order to learn how to work with the backend, which I wrote myself
 
 ## Available Scripts
 
