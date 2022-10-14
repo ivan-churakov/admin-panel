@@ -1,6 +1,6 @@
 # Admin panel
 
-I made this project in order to learn how to work with the backend, which I wrote myself
+I made this project in order to learn how to work with the backend, which I wrote myself.
 
 ## Available Scripts
 
