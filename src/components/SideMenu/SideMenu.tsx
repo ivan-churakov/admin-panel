@@ -13,6 +13,5 @@ export const SideMenu = ({ children }: any) => {
         <div className={menuClass}>
             {children}
         </div>
-        // <Menu open={isMenuOpen}>{children}</Menu>
     )
 };
